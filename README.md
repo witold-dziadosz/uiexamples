@@ -1,4 +1,4 @@
-# Best kits so far
+# Example kits
 1. Kometa UI
 2. Flowbite
 3. Flowrift
